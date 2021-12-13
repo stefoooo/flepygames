@@ -1,0 +1,11 @@
+C:\Users\stefan\source\repos\flepygames\flepygames\bin\Debug\flepygames.exe.config
+C:\Users\stefan\source\repos\flepygames\flepygames\bin\Debug\flepygames.exe
+C:\Users\stefan\source\repos\flepygames\flepygames\bin\Debug\flepygames.pdb
+C:\Users\stefan\source\repos\flepygames\flepygames\obj\Debug\flepygames.csproj.AssemblyReference.cache
+C:\Users\stefan\source\repos\flepygames\flepygames\obj\Debug\flepygames.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefan\source\repos\flepygames\flepygames\obj\Debug\flepygames.Form1.resources
+C:\Users\stefan\source\repos\flepygames\flepygames\obj\Debug\flepygames.Properties.Resources.resources
+C:\Users\stefan\source\repos\flepygames\flepygames\obj\Debug\flepygames.csproj.GenerateResource.cache
+C:\Users\stefan\source\repos\flepygames\flepygames\obj\Debug\flepygames.csproj.CoreCompileInputs.cache
+C:\Users\stefan\source\repos\flepygames\flepygames\obj\Debug\flepygames.exe
+C:\Users\stefan\source\repos\flepygames\flepygames\obj\Debug\flepygames.pdb
